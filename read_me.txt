@@ -1,0 +1,1 @@
+Open the file of name [index] through the browser
